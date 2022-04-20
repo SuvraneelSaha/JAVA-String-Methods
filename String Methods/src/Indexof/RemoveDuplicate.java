@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 // can't do the leetcode one as it has stack involved
 // so did the gfg one and the w3 resource onw was also same
-// but in the case of the leetcode one it was a stack problem 
+// but in the case of the leetcode one it was a stack problem
 
 public class RemoveDuplicate {
     public static void main(String[] args) {
