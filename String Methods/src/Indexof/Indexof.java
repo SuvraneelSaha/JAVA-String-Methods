@@ -13,7 +13,7 @@ public class Indexof {
             System.out.println(Str1.indexOf("y"));
             String Str2 = "Hello planet earth, you are a great planet.";
             System.out.println(Str2.indexOf("planet",12));
-           
+
         }
 
 
